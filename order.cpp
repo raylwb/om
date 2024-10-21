@@ -24,10 +24,13 @@ int main(){
         switch (order[i]){
         case 1:
             m += 69;
+            break;
         case 2:
             m += 39;
+            break;
         case 3:
             m += 19;
+            break;
         }
     }
     cout<<m;
